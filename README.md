@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechWriterP
-- 👀 I’m interested in Technical Documentation Practices.
-- 🌱 I’m currently learning Doc-as-Code
-- 💞️ I’m looking to collaborate on API Documentation Projects.
+- 👀 I’m interested in technical documentation practices, specifically developer documentation
+- 🌱 I’m currently exploring different ways to document APIs
+- 💞️ I’m looking to collaborate on technical documentation projects, specifically on API documentation projects
 - 📫 How to reach me: techwriter.prashant@gmail.com
 
 <!---

@@ -14,12 +14,24 @@ I specialize in documentation strategy, information architecture, structured aut
 - Cross-functional collaboration with product managers, engineers, QA, support, SMEs, and program stakeholders
 - Documentation leadership, contributor mentoring, content reviews, and release readiness tracking
 
+## Career Highlights
+
+- Leading documentation planning and delivery for Pentaho Data Catalog at Hitachi Vantara / VTI / LEO Software Group
+- Produced documentation for cloud-native fintech products across AWS-based IaaS, PaaS, and SaaS environments
+- Led documentation and migration workstreams for LMS, manufacturing, e-commerce, aerospace, and enterprise platform programs
+- Managed and mentored documentation teams of up to 10 contributors across technical writing and product information projects
+- Trained 1,500+ employees in MS Excel, Advanced Excel, and VBA, with an average feedback score of 4.6/5
+
 ## Tools and Technologies
 
 **Authoring and publishing:** Oxygen XML Editor, SDL Tridion, Fluid Topics, Hugo, GitBook, MkDocs, Adobe FrameMaker, Arbortext, RoboHelp, MadCap Flare  
 **Developer documentation:** Swagger, Postman, REST APIs, Markdown, HTML, CSS, YAML  
 **Collaboration and delivery:** Jira, Confluence, Bitbucket, Git, GitHub, VS Code, SharePoint  
 **Standards and platforms:** DITA, DITA XML, CMS, CCMS, docs-as-code, AWS, Azure, CI/CD, DevOps, ITIL
+
+## Certifications
+
+PRINCE2 Practitioner, Advanced Certified ScrumMaster, Certified Scrum Product Owner, Certified Agile Project Manager, CAPM, ITIL 4 Foundation, and Microsoft Office Specialist Excel Expert.
 
 ## Featured GitHub Work
 
